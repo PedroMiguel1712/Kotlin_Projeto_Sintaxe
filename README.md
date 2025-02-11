@@ -9,7 +9,7 @@ Aprender o basico de Kotlin
 
 ## 🧰 Tecnologia:
 - IDE: Visual Studio
-- SDK: [Net FrameWork 4.8](https://www.jdoodle.com/compile-kotlin-online)
+- SDK: [Jdoodle](https://www.jdoodle.com/compile-kotlin-online)
 
 ## 😁 Autor:
 
