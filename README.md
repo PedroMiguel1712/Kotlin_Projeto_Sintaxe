@@ -13,4 +13,4 @@ Aprender o basico de Kotlin
 
 ## 😁 Autor:
 
-Developed by [Pedro Miguel](https://www.jdoodle.com/compile-kotlin-online)
+Developed by [Pedro Miguel](https://www.linkedin.com/in/pedro-miguel-73288130a/)
